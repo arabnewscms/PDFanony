@@ -1,12 +1,12 @@
 # PDF Anony Package
 A PDF Package Support Arabic Based On TCPDF Developed By PhpAnonymous ( phpanonymous.com )
-Laravel Version 5 and Abov 
+Laravel Version 5 and Above 
 ##Install with Composer 
 ```php
 composer require pdfanonymous/phpanonymous:dev-master
 ```
 # Provider Class 
-put on your ` config/app.php ` on provider array this class
+put on your ` config/app.php ` in provider array this class
 ```php
  PDFAnony\TCPDF\AnonyServiceProvider::class,
  
