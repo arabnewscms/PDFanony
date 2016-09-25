@@ -52,16 +52,28 @@ you can set state display if want stream or download or auto print file pdf
 and you can set file name and other setting 
 
 1 - rtl can be disable it or enable 
+
 2 - can render file blade with data key or put html code i'ts easy 
+
 3 - you have 4 fonts type  dejavusans, aefurat ,aealarabiya ,times  | default is  aealarabiya just change if you want :) 
+
 4 - you can set font size the default value is 12 
+
 5 - text key you can remove it or null any way 
+
 6 - you can set information file creator or keywords or subject 
+
 7 - finally you can set your title file :) i'ts more setting coming soon 
+
 this package based on tcpdf library (https://tcpdf.org)
 
+
 this package supported arabic character 100% and supported rtl 100% 
-Sorry Can't Support A Twitter Bootstrap Right now But i well do it soon 
+
+Sorry Can't Support A Twitter Bootstrap Right now But i well do it soon
+
+if you have any quetsion about this package join us on group facebook  (https://www.facebook.com/groups/anonymouses.developers) 
+
 Enjoy :) 
 
 
