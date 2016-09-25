@@ -3,7 +3,7 @@ A PDF Package Support Arabic Based On TCPDF Developed By PhpAnonymous ( phpanony
 Laravel Version 5 and Abov 
 ##Install with Composer 
 ```php
-  composer pdfanonymous/phpanonymous:div-master
+composer require pdfanonymous/phpanonymous:div-master
 ```
 # Provider Class 
 put on your ` config/app.php ` on provider array this class
