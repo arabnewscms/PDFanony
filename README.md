@@ -29,9 +29,12 @@ Just Call Class PDF::HTML($yourArraySettings);
 Like That 
 
 ```php
+$html = view('youblade_path',['dataloop'=>$yourdataloop])->render(); // file render
+// or pure html 
+$html = '<h1>مرحبا بكم فى العالم </h1>';
  $pdfarr = [
 		'title'=>'اهلا بكم ',
-		'data'=>view('welcome')->render(), // render file blade with content html
+		'data'=>$html, // render file blade with content html
 		'header'=>['show'=>false], // header content
 		'footer'=>['show'=>false], // Footer content
 		'font'=>'aealarabiya', //  dejavusans, aefurat ,aealarabiya ,times
