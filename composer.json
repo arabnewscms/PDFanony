@@ -1,0 +1,27 @@
+{
+  "name": "pdfanonymous/phpanonymous",
+  "description": "PDF Package Arabic based on tcpdf library support for laravel 5 version 1.0",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version":"1.0",
+  "keywords": [
+	"laravel",
+	"tcpdf",
+	"phpanonymous",
+	"pdf"
+  ],
+  "authors": [
+	{
+	  "name": "phpanonymous",
+	  "email": "gm@phpanonymous.com"
+	}
+  ],
+  "require": {
+	"tecnickcom/tcpdf": "6.2.9"
+  },
+  "autoload": {
+	"psr-4": {
+	  "PDFAnony\\TCPDF\\": "src/"
+	}
+  }
+}
