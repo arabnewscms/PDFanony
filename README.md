@@ -72,7 +72,7 @@ this package supported arabic character 100% and supported rtl 100%
 
 Sorry Can't Support A Twitter Bootstrap Right now But i well do it soon
 
-if you have any quetsion about this package join us on group facebook  (https://www.facebook.com/groups/anonymouses.developers) 
+if you have any questions about this package join us on group facebook  (https://www.facebook.com/groups/anonymouses.developers) 
 
 Enjoy :) 
 
