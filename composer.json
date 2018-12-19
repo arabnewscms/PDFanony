@@ -17,7 +17,7 @@
 	}
   ],
   "require": {
-	"tecnickcom/tcpdf": "6.2.9"
+	"tecnickcom/tcpdf": "6.2.26"
   },
   "autoload": {
 	"psr-4": {
